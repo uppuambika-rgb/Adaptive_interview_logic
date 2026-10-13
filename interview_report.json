@@ -1,0 +1,590 @@
+{
+    "candidate_profile": {
+        "name": "backend developer",
+        "target_role": "backend developer",
+        "experience_level": "junior",
+        "interview_date": "2026-10-13 17:33:21",
+        "total_rounds_completed": 10,
+        "skill_coverage_percentage": 100.0,
+        "skills_targeted": [
+            "python",
+            "datastructures"
+        ],
+        "skills_tested": [
+            "python",
+            "datastructures"
+        ]
+    },
+    "executive_summary": {
+        "overall_score": 2.4,
+        "hiring_verdict": "DO NOT HIRE",
+        "recruiter_takeaway": "backend developer struggled with foundational concepts across multiple core requirements. Does not meet the current technical bar for the junior backend developer position.",
+        "average_correctness": 4.0,
+        "average_completeness": 0.0
+    },
+    "skill_assessments": {
+        "python": {
+            "skill": "python",
+            "score": 2,
+            "level": "Needs improvement",
+            "total_questions": 5,
+            "difficulty_breakdown": {
+                "easy": 5,
+                "medium": 0,
+                "hard": 0
+            },
+            "average_correctness": 4.0,
+            "average_completeness": 0.0,
+            "concept_coverage_percentage": 0.0,
+            "explanation": "The candidate demonstrated a limited and requires foundational study understanding of python with an average correctness of 4.0%, concept completeness of 0.0%, and concept coverage of 0.0% across 5 question(s).",
+            "evidence": [
+                "xdtrcyfvgbhjn",
+                "drcfvgbhnj",
+                "ftgyhuj",
+                "ftghk"
+            ],
+            "matched_concepts": [],
+            "missing_concepts": [
+                "function definition",
+                "list comprehension",
+                "modulo operator for even check",
+                "built-in sum function",
+                "list comprehension or filtering",
+                "sorting a list",
+                "basic type handling",
+                "function definition syntax",
+                "parameter handling",
+                "return statement",
+                "integer addition",
+                "function definition and parameters",
+                "list comprehension or filtering logic",
+                "returning a new list",
+                "string slicing or iteration to reverse a string"
+            ],
+            "questions_audit": [
+                {
+                    "question": "Write a Python function that takes a list of integers and returns the sum of all even numbers in the list.",
+                    "difficulty": "easy",
+                    "status": "incorrect_or_unclear",
+                    "correctness_score": 0.0,
+                    "completeness_score": 0.0,
+                    "score": 0.0,
+                    "matched_concepts": [],
+                    "missing_concepts": [
+                        "function definition",
+                        "list comprehension",
+                        "modulo operator for even check",
+                        "built-in sum function"
+                    ]
+                },
+                {
+                    "question": "Write a Python function that takes a list of integers and returns a new list containing only the even numbers, sorted in ascending order.",
+                    "difficulty": "easy",
+                    "status": "incorrect_or_unclear",
+                    "correctness_score": 10.0,
+                    "completeness_score": 0.0,
+                    "score": 6.0,
+                    "matched_concepts": [],
+                    "missing_concepts": [
+                        "function definition",
+                        "list comprehension or filtering",
+                        "sorting a list",
+                        "basic type handling"
+                    ]
+                },
+                {
+                    "question": "Write a Python function called add_numbers that takes two integers as arguments and returns their sum.",
+                    "difficulty": "easy",
+                    "status": "incorrect_or_unclear",
+                    "correctness_score": 0.0,
+                    "completeness_score": 0.0,
+                    "score": 0.0,
+                    "matched_concepts": [],
+                    "missing_concepts": [
+                        "function definition syntax",
+                        "parameter handling",
+                        "return statement",
+                        "integer addition",
+                        "basic type handling"
+                    ]
+                },
+                {
+                    "question": "Write a Python function that takes a list of integers and returns a new list containing only the even numbers, sorted in ascending order.",
+                    "difficulty": "easy",
+                    "status": "incorrect_or_unclear",
+                    "correctness_score": 0.0,
+                    "completeness_score": 0.0,
+                    "score": 0.0,
+                    "matched_concepts": [],
+                    "missing_concepts": [
+                        "function definition and parameters",
+                        "list comprehension or filtering logic",
+                        "sorting a list",
+                        "returning a new list"
+                    ]
+                },
+                {
+                    "question": "Write a Python function that takes a string as input and returns the string reversed.",
+                    "difficulty": "easy",
+                    "status": "incorrect_or_unclear",
+                    "correctness_score": 10.0,
+                    "completeness_score": 0.0,
+                    "score": 6.0,
+                    "matched_concepts": [],
+                    "missing_concepts": [
+                        "function definition and parameters",
+                        "string slicing or iteration to reverse a string",
+                        "return statement"
+                    ]
+                }
+            ]
+        },
+        "datastructures": {
+            "skill": "datastructures",
+            "score": 2,
+            "level": "Needs improvement",
+            "total_questions": 5,
+            "difficulty_breakdown": {
+                "easy": 5,
+                "medium": 0,
+                "hard": 0
+            },
+            "average_correctness": 4.0,
+            "average_completeness": 0.0,
+            "concept_coverage_percentage": 0.0,
+            "explanation": "The candidate demonstrated a limited and requires foundational study understanding of datastructures with an average correctness of 4.0%, concept completeness of 0.0%, and concept coverage of 0.0% across 5 question(s).",
+            "evidence": [
+                "\"bjk\"",
+                "\"cfjvhbkjn\"",
+                "drcfvghbjn",
+                "\"tfvghbjnhkml,\""
+            ],
+            "matched_concepts": [],
+            "missing_concepts": [
+                "queue or circular buffer for FIFO behavior",
+                "array or linked list implementation",
+                "O(1) time complexity for add and remove operations",
+                "fixed-size storage to limit memory usage",
+                "reasoning about space vs. time trade-offs",
+                "definition of an array and its contiguous memory layout",
+                "constant\u2011time O(1) random access in arrays",
+                "fixed size (or resizing cost) and memory overhead in arrays",
+                "definition of a linked list and its node structure",
+                "dynamic size and O(1) insertion/deletion at the head or tail in linked lists",
+                "Use of a set to enforce uniqueness",
+                "O(1) average\u2011time complexity for membership checks",
+                "Underlying hash table implementation",
+                "Memory overhead considerations compared to lists",
+                "When to choose a set over a list or dictionary for this use case",
+                "list is an ordered, mutable collection",
+                "dynamic array implementation",
+                "constant\u2011time indexing and slicing",
+                "supports iteration and membership tests",
+                "common use cases: storing sequences of items that may change",
+                "Using a hash map (or dictionary) to count character frequencies",
+                "Maintaining order of appearance to identify the first non-repeating character",
+                "Achieving O(n) time complexity and O(n) space complexity",
+                "Handling edge cases such as empty strings or all repeating characters"
+            ],
+            "questions_audit": [
+                {
+                    "question": "You need to keep track of the most recent 10 search queries a user has made. Which data structure would you use and why?",
+                    "difficulty": "easy",
+                    "status": "incorrect_or_unclear",
+                    "correctness_score": 10.0,
+                    "completeness_score": 0.0,
+                    "score": 6.0,
+                    "matched_concepts": [],
+                    "missing_concepts": [
+                        "queue or circular buffer for FIFO behavior",
+                        "array or linked list implementation",
+                        "O(1) time complexity for add and remove operations",
+                        "fixed-size storage to limit memory usage",
+                        "reasoning about space vs. time trade-offs"
+                    ]
+                },
+                {
+                    "question": "What is an array and what are its advantages and disadvantages compared to a linked list?",
+                    "difficulty": "easy",
+                    "status": "incorrect_or_unclear",
+                    "correctness_score": 0.0,
+                    "completeness_score": 0.0,
+                    "score": 0.0,
+                    "matched_concepts": [],
+                    "missing_concepts": [
+                        "definition of an array and its contiguous memory layout",
+                        "constant\u2011time O(1) random access in arrays",
+                        "fixed size (or resizing cost) and memory overhead in arrays",
+                        "definition of a linked list and its node structure",
+                        "dynamic size and O(1) insertion/deletion at the head or tail in linked lists"
+                    ]
+                },
+                {
+                    "question": "You need to maintain a collection of unique user IDs that are logged in during a session and frequently check if a particular ID is already present. Which data structure would you use in Python to store these IDs, and why?",
+                    "difficulty": "easy",
+                    "status": "incorrect_or_unclear",
+                    "correctness_score": 0.0,
+                    "completeness_score": 0.0,
+                    "score": 0.0,
+                    "matched_concepts": [],
+                    "missing_concepts": [
+                        "Use of a set to enforce uniqueness",
+                        "O(1) average\u2011time complexity for membership checks",
+                        "Underlying hash table implementation",
+                        "Memory overhead considerations compared to lists",
+                        "When to choose a set over a list or dictionary for this use case"
+                    ]
+                },
+                {
+                    "question": "What is a list in Python and when would you use it?",
+                    "difficulty": "easy",
+                    "status": "incorrect_or_unclear",
+                    "correctness_score": 0.0,
+                    "completeness_score": 0.0,
+                    "score": 0.0,
+                    "matched_concepts": [],
+                    "missing_concepts": [
+                        "list is an ordered, mutable collection",
+                        "dynamic array implementation",
+                        "constant\u2011time indexing and slicing",
+                        "supports iteration and membership tests",
+                        "common use cases: storing sequences of items that may change"
+                    ]
+                },
+                {
+                    "question": "Write a function that takes a string and returns the first non-repeating character. Use an appropriate data structure to achieve this efficiently.",
+                    "difficulty": "easy",
+                    "status": "incorrect_or_unclear",
+                    "correctness_score": 10.0,
+                    "completeness_score": 0.0,
+                    "score": 6.0,
+                    "matched_concepts": [],
+                    "missing_concepts": [
+                        "Using a hash map (or dictionary) to count character frequencies",
+                        "Maintaining order of appearance to identify the first non-repeating character",
+                        "Achieving O(n) time complexity and O(n) space complexity",
+                        "Handling edge cases such as empty strings or all repeating characters"
+                    ]
+                }
+            ]
+        }
+    },
+    "key_strengths": [],
+    "key_evidence": [
+        "xdtrcyfvgbhjn",
+        "drcfvgbhnj",
+        "ftgyhuj",
+        "ftghk"
+    ],
+    "risk_assessment_red_flags": [
+        "function definition",
+        "list comprehension",
+        "modulo operator for even check",
+        "built-in sum function",
+        "list comprehension or filtering",
+        "sorting a list"
+    ],
+    "next_round_interview_probes": [
+        {
+            "topic": "Function Definition & List Comprehension",
+            "question": "Can you write a Python function that takes a list of integers and returns the sum of all even numbers using a list comprehension?",
+            "rationale": "This probes the candidate's ability to define a function correctly, use list comprehensions, apply the modulo operator for even checks, and utilize the built\u2011in sum function\u2014all identified gaps."
+        },
+        {
+            "topic": "Sorting and Basic Type Handling",
+            "question": "How would you sort a list of dictionaries by a specific key, and what precautions would you take if some dictionaries might be missing that key?",
+            "rationale": "This question tests sorting logic, handling of missing keys (type handling), and the candidate's understanding of Python's sorting mechanisms, addressing gaps in sorting and basic type handling."
+        },
+        {
+            "topic": "Error Handling & Type Validation",
+            "question": "What would happen if you passed a list containing non\u2011integer elements (e.g., strings or None) to the function from the first probe, and how would you modify the function to safely handle such cases?",
+            "rationale": "This probes deeper applied knowledge of type handling, error detection, and defensive programming\u2014areas where the candidate showed gaps."
+        }
+    ],
+    "question_audit_log": [
+        {
+            "round": 1,
+            "skill": "python",
+            "difficulty": "easy",
+            "question": "Write a Python function that takes a list of integers and returns the sum of all even numbers in the list.",
+            "candidate_answer": "gjikn",
+            "expected_concepts": [
+                "function definition",
+                "list comprehension",
+                "modulo operator for even check",
+                "built-in sum function"
+            ],
+            "matched_concepts": [],
+            "missing_concepts": [
+                "function definition",
+                "list comprehension",
+                "modulo operator for even check",
+                "built-in sum function"
+            ],
+            "evidence": [],
+            "correctness_score": 0,
+            "completeness_score": 0,
+            "score": 0,
+            "status": "incorrect_or_unclear",
+            "explanation": "The candidate's response \"gjikn\" does not contain any valid Python code or explanation of the required concepts. It fails to demonstrate a function definition, list comprehension, modulo operation, or use of the built\u2011in sum function, resulting in a score of 0."
+        },
+        {
+            "round": 2,
+            "skill": "datastructures",
+            "difficulty": "easy",
+            "question": "You need to keep track of the most recent 10 search queries a user has made. Which data structure would you use and why?",
+            "candidate_answer": "bjk",
+            "expected_concepts": [
+                "queue or circular buffer for FIFO behavior",
+                "array or linked list implementation",
+                "O(1) time complexity for add and remove operations",
+                "fixed-size storage to limit memory usage",
+                "reasoning about space vs. time trade-offs"
+            ],
+            "matched_concepts": [],
+            "missing_concepts": [
+                "queue or circular buffer for FIFO behavior",
+                "array or linked list implementation",
+                "O(1) time complexity for add and remove operations",
+                "fixed-size storage to limit memory usage",
+                "reasoning about space vs. time trade-offs"
+            ],
+            "evidence": [
+                "\"bjk\""
+            ],
+            "correctness_score": 10,
+            "completeness_score": 0,
+            "score": 6,
+            "status": "incorrect_or_unclear",
+            "explanation": "The candidate's response contains no relevant information about data structures, operations, or trade\u2011offs. It does not demonstrate any of the expected concepts, resulting in a very low correctness score."
+        },
+        {
+            "round": 3,
+            "skill": "datastructures",
+            "difficulty": "easy",
+            "question": "What is an array and what are its advantages and disadvantages compared to a linked list?",
+            "candidate_answer": "cfjvhbkjn",
+            "expected_concepts": [
+                "definition of an array and its contiguous memory layout",
+                "constant\u2011time O(1) random access in arrays",
+                "fixed size (or resizing cost) and memory overhead in arrays",
+                "definition of a linked list and its node structure",
+                "dynamic size and O(1) insertion/deletion at the head or tail in linked lists"
+            ],
+            "matched_concepts": [],
+            "missing_concepts": [
+                "definition of an array and its contiguous memory layout",
+                "constant\u2011time O(1) random access in arrays",
+                "fixed size (or resizing cost) and memory overhead in arrays",
+                "definition of a linked list and its node structure",
+                "dynamic size and O(1) insertion/deletion at the head or tail in linked lists"
+            ],
+            "evidence": [
+                "\"cfjvhbkjn\""
+            ],
+            "correctness_score": 0,
+            "completeness_score": 0,
+            "score": 0,
+            "status": "incorrect_or_unclear",
+            "explanation": "The candidate's response contains no meaningful content related to arrays or linked lists, thus failing to demonstrate any of the expected concepts."
+        },
+        {
+            "round": 4,
+            "skill": "python",
+            "difficulty": "easy",
+            "question": "Write a Python function that takes a list of integers and returns a new list containing only the even numbers, sorted in ascending order.",
+            "candidate_answer": "xdtrcyfvgbhjn",
+            "expected_concepts": [
+                "function definition",
+                "list comprehension or filtering",
+                "sorting a list",
+                "basic type handling"
+            ],
+            "matched_concepts": [],
+            "missing_concepts": [
+                "function definition",
+                "list comprehension or filtering",
+                "sorting a list",
+                "basic type handling"
+            ],
+            "evidence": [
+                "xdtrcyfvgbhjn"
+            ],
+            "correctness_score": 10,
+            "completeness_score": 0,
+            "score": 6,
+            "status": "incorrect_or_unclear",
+            "explanation": "The candidate's response is a random string with no Python code, no function definition, no filtering logic, and no sorting. It fails to address any of the expected concepts."
+        },
+        {
+            "round": 5,
+            "skill": "python",
+            "difficulty": "easy",
+            "question": "Write a Python function called add_numbers that takes two integers as arguments and returns their sum.",
+            "candidate_answer": "drcfvgbhnj",
+            "expected_concepts": [
+                "function definition syntax",
+                "parameter handling",
+                "return statement",
+                "integer addition",
+                "basic type handling"
+            ],
+            "matched_concepts": [],
+            "missing_concepts": [
+                "function definition syntax",
+                "parameter handling",
+                "return statement",
+                "integer addition",
+                "basic type handling"
+            ],
+            "evidence": [
+                "drcfvgbhnj"
+            ],
+            "correctness_score": 0,
+            "completeness_score": 0,
+            "score": 0,
+            "status": "incorrect_or_unclear",
+            "explanation": "The candidate's response contains no valid Python code or explanation, so none of the expected concepts are demonstrated."
+        },
+        {
+            "round": 6,
+            "skill": "datastructures",
+            "difficulty": "easy",
+            "question": "You need to maintain a collection of unique user IDs that are logged in during a session and frequently check if a particular ID is already present. Which data structure would you use in Python to store these IDs, and why?",
+            "candidate_answer": "drcfvghbjn",
+            "expected_concepts": [
+                "Use of a set to enforce uniqueness",
+                "O(1) average\u2011time complexity for membership checks",
+                "Underlying hash table implementation",
+                "Memory overhead considerations compared to lists",
+                "When to choose a set over a list or dictionary for this use case"
+            ],
+            "matched_concepts": [],
+            "missing_concepts": [
+                "Use of a set to enforce uniqueness",
+                "O(1) average\u2011time complexity for membership checks",
+                "Underlying hash table implementation",
+                "Memory overhead considerations compared to lists",
+                "When to choose a set over a list or dictionary for this use case"
+            ],
+            "evidence": [
+                "drcfvghbjn"
+            ],
+            "correctness_score": 0,
+            "completeness_score": 0,
+            "score": 0,
+            "status": "incorrect_or_unclear",
+            "explanation": "The candidate's response contains no meaningful content related to the question. It does not demonstrate any of the expected concepts, making the answer fundamentally incorrect."
+        },
+        {
+            "round": 7,
+            "skill": "datastructures",
+            "difficulty": "easy",
+            "question": "What is a list in Python and when would you use it?",
+            "candidate_answer": "ftgyhuj",
+            "expected_concepts": [
+                "list is an ordered, mutable collection",
+                "dynamic array implementation",
+                "constant\u2011time indexing and slicing",
+                "supports iteration and membership tests",
+                "common use cases: storing sequences of items that may change"
+            ],
+            "matched_concepts": [],
+            "missing_concepts": [
+                "list is an ordered, mutable collection",
+                "dynamic array implementation",
+                "constant\u2011time indexing and slicing",
+                "supports iteration and membership tests",
+                "common use cases: storing sequences of items that may change"
+            ],
+            "evidence": [],
+            "correctness_score": 0,
+            "completeness_score": 0,
+            "score": 0,
+            "status": "incorrect_or_unclear",
+            "explanation": "The candidate's response contains no meaningful content related to Python lists, so none of the expected concepts are demonstrated."
+        },
+        {
+            "round": 8,
+            "skill": "python",
+            "difficulty": "easy",
+            "question": "Write a Python function that takes a list of integers and returns a new list containing only the even numbers, sorted in ascending order.",
+            "candidate_answer": "ftgyhuj",
+            "expected_concepts": [
+                "function definition and parameters",
+                "list comprehension or filtering logic",
+                "sorting a list",
+                "returning a new list"
+            ],
+            "matched_concepts": [],
+            "missing_concepts": [
+                "function definition and parameters",
+                "list comprehension or filtering logic",
+                "sorting a list",
+                "returning a new list"
+            ],
+            "evidence": [
+                "ftgyhuj"
+            ],
+            "correctness_score": 0,
+            "completeness_score": 0,
+            "score": 0,
+            "status": "incorrect_or_unclear",
+            "explanation": "The candidate's response contains no valid Python code or explanation of any required concept. It does not demonstrate function definition, filtering, sorting, or returning a new list, so all expected concepts are missing."
+        },
+        {
+            "round": 9,
+            "skill": "python",
+            "difficulty": "easy",
+            "question": "Write a Python function that takes a string as input and returns the string reversed.",
+            "candidate_answer": "ftghk",
+            "expected_concepts": [
+                "function definition and parameters",
+                "string slicing or iteration to reverse a string",
+                "return statement"
+            ],
+            "matched_concepts": [],
+            "missing_concepts": [
+                "function definition and parameters",
+                "string slicing or iteration to reverse a string",
+                "return statement"
+            ],
+            "evidence": [
+                "ftghk"
+            ],
+            "correctness_score": 10,
+            "completeness_score": 0,
+            "score": 6,
+            "status": "incorrect_or_unclear",
+            "explanation": "The candidate provided only a string literal, not a Python function. No function definition, parameters, reversal logic, or return statement is present, so none of the expected concepts are demonstrated."
+        },
+        {
+            "round": 10,
+            "skill": "datastructures",
+            "difficulty": "easy",
+            "question": "Write a function that takes a string and returns the first non-repeating character. Use an appropriate data structure to achieve this efficiently.",
+            "candidate_answer": "tfvghbjnhkml,",
+            "expected_concepts": [
+                "Using a hash map (or dictionary) to count character frequencies",
+                "Maintaining order of appearance to identify the first non-repeating character",
+                "Achieving O(n) time complexity and O(n) space complexity",
+                "Handling edge cases such as empty strings or all repeating characters"
+            ],
+            "matched_concepts": [],
+            "missing_concepts": [
+                "Using a hash map (or dictionary) to count character frequencies",
+                "Maintaining order of appearance to identify the first non-repeating character",
+                "Achieving O(n) time complexity and O(n) space complexity",
+                "Handling edge cases such as empty strings or all repeating characters"
+            ],
+            "evidence": [
+                "\"tfvghbjnhkml,\""
+            ],
+            "correctness_score": 10,
+            "completeness_score": 0,
+            "score": 6,
+            "status": "incorrect_or_unclear",
+            "explanation": "The candidate's response contains only a random string with no explanation or code. It does not demonstrate any of the expected concepts, nor does it provide a correct or even partial solution. Therefore the answer is largely incorrect."
+        }
+    ]
+}
